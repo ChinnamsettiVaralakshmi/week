@@ -1,0 +1,45 @@
+step1:start
+step2:declare count
+step3:assigning the value 1 to count variable (count=1)
+step4:print "myname is sowjanya"
+step5:incrementing count value by 1 and store the value into count (count =count+1)
+step6: repeat step 4 and 5 until it reaches count value is greater than 5 (count<=5)
+step7:stop
+
+
+step1:start
+step2:declare count
+step3:assigning the value 1 to count variable (count=1)
+step4:print "bitlabs"
+step5:incrementing count value by 1 and store the value into count (count =count+1)
+step6:repeat step 4 and 5 until it reaches count value is greater than 10(count<=10)
+step7:stop
+
+start
+declare count
+assign the value 1 to count(count=1)
+print count
+incrementing count value by 1 and store the value into count
+repeat step4 and step5 untill it reaches count value value less than equal to 10
+stop
+
+algorithm for 10 to 1
+step1:start
+step2:declare count 10 to count(count=10)
+step3:assign the value 
+step4:print count
+step5:decrementing count value by 1 and store the value into count
+step6:repeat step4 and step5 untill it reaches count value greater than or equal to 1
+step7:stop
+
+
+algorithm for deposit
+step1:start
+step2:insert atm card
+step3:select deposit option
+step4:enter the account number
+step5:verify the account number and shows the account holder name 
+step6:asks for amount
+step7:if all cash are received it displays about amount  
+step8:deposit successfull
+step9:stop

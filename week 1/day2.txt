@@ -1,0 +1,16 @@
+step1:start
+step2:declare the age
+step3:read the value into age
+step4:if the age is greater than 18 and equal 
+step5:they can eligible for voting otherwise not eligible
+step6:display 
+step7:stop
+
+addmission of a college
+step1:start
+step2:declare the average
+step3:read the values into average 
+step4:if the avg is greater than 80 percent
+step5:print eligible otherwise not eligible
+step6:dislay
+step7:stop

@@ -1,0 +1,109 @@
+Algorithm for ATM
+step1-start
+step2-enter the card
+step3-select an option (withdraw)
+step4-enter the pin
+step5-enter the amount
+step6-enter
+step7-receive the cash
+step8-remove the card
+Problem solving technique
+
+ How to prepare tea
+Step1 : start
+step2 : take the ingredients sugar,milk and tea powder
+step2: take a bowl, turn on the stove
+step3: we have to add all the ingredients into the bowl
+step4 : boiling 
+step5: after boiling has done, we will get tea
+step6: stop
+
+ 
+
+characteristics:
+1.Input  - accepts atleast one input
+2.Output  - should produce atleast one output
+3.Definiteness - each and every statement should be clear, and well defined
+
+ 
+
+
+well defined problem - I want to go to vizag, can you give fastest route to reach that vizag
+
+ 
+
+Ill defined problem - I want to go to that place, can you give fastest route to reach that place
+
+ 
+
+4.Finiteness - the number statements should be limited.
+
+ 
+
+5.Effectiveness - should write necessary statements only.
+
+
+
+
+step1-start
+step2-ingrediants
+step3-light the stove
+step4-take a vessel
+step5-pour water in it
+step6-add washed rice
+step7-it starts cooking for 5minutes
+step8-take another vessel
+step9-add ghee masala ingrediants,onions
+step10-add magneted chicken 
+step11-cook it for some time
+step12-add boiled rice 
+step13-close the vessel
+step14-boil it for some time
+step15-biryani ready
+step16-stop
+[4:20 PM] Ch Varalakshmi (Guest)
+
+
+
+
+step1-start
+
+step2-go to website
+
+step3-login 
+
+step4-enter mobile number
+
+step5-verify OTP
+
+step6-account created
+
+step7-select a mobile
+
+step8-seeing the features,reviews
+
+step9-add to cart,buy
+
+step10-address
+
+step11-cod/online payment
+
+step13-confirmed
+
+step14-stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
